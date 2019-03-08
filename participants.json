@@ -17,7 +17,7 @@
   },
   "age": {
     "LongName": "Age in years",
-    "Description": "Age of participant in years.",
+    "Description": "Age of participant in years (rounded to protect identities).",
     "Units": "years"
   },
   "behavior": {
