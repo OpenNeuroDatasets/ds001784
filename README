@@ -5,7 +5,7 @@ Please cite the following reference if you use these data:
 Widge, A. S., Zorowitz, S., Basu, I., Paulk, A. C., Cash, S. S., Eskandar, E. N., Deckersbach, T., Miller, E. K., Dougherty, D. D. Deep Brain Stimulation of the Internal Capsule Enhances Human Cognitive Control and Prefrontal Cortex Function. Nature Communications. Accepted.
 
 
-eeg/
+eeg
 ----
 Three anatomical fiducials were digitized for aligning the MEG with the MRI: the nasion (lowest depression between the eyes) and the left and right ears (lowest depression between the tragus and the helix, above the tragus). This procedure is illustrated here: http://neuroimage.usc.edu/brainstorm/CoordinateSystems#Subject_Coordinate_System_.28SCS_.2F_CTF.29
 
@@ -17,6 +17,7 @@ Trig2          Onset      Start of response window (onset of MSIT)
 Trig1          Offset      Response time
 Trig2          Offset      End of trial
 
-Code/
+code
+------
 The code used for data analysis is publicly available at:
 https://github.com/mghneurotherapeutics/EMOTE-afMSIT
