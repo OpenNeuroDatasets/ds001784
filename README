@@ -16,3 +16,7 @@ Trig1          Onset      Start of trial (onset of IAPS)
 Trig2          Onset      Start of response window (onset of MSIT)
 Trig1          Offset      Response time
 Trig2          Offset      End of trial
+
+Code/
+The code used for data analysis is publicly available at:
+https://github.com/mghneurotherapeutics/EMOTE-afMSIT
