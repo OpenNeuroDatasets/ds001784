@@ -1,21 +1,18 @@
 Description: Effects of ON/OFF deep brain stimulation on cognitive control (EEG) in severe depression
 
-Please cite the following references if you use these data:
+Please cite the following reference if you use these data:
 
 Widge, A. S., Zorowitz, S., Basu, I., Paulk, A. C., Cash, S. S., Eskandar, E. N., Deckersbach, T., Miller, E. K., Dougherty, D. D. Deep Brain Stimulation of the Internal Capsule Enhances Human Cognitive Control and Prefrontal Cortex Function. In Revision.
 
 
 eeg/
 ----
-Three anatomical fiducials were digitized for aligning the MEG with the MRI: the nasion
-(lowest depression between the eyes) and the left and right ears (lowest depression
-between the tragus and the helix, above the tragus). This procedure is illustrated here:
-http://neuroimage.usc.edu/brainstorm/CoordinateSystems#Subject_Coordinate_System_.28SCS_.2F_CTF.29
+Three anatomical fiducials were digitized for aligning the MEG with the MRI: the nasion (lowest depression between the eyes) and the left and right ears (lowest depression between the tragus and the helix, above the tragus). This procedure is illustrated here: http://neuroimage.usc.edu/brainstorm/CoordinateSystems#Subject_Coordinate_System_.28SCS_.2F_CTF.29
 
 The following triggers are included in the trigger channels of the .fif files:
 
-Channel            Event               Description
-Trig1              Onset               Start of trial (onset of IAPS)
-Trig2              Onset               Start of response window (onset of MSIT)
-Trig1              Offset              Response time
-Trig2              Offset              End of trial
+Channel    Event       Description
+Trig1          Onset      Start of trial (onset of IAPS)
+Trig2          Onset      Start of response window (onset of MSIT)
+Trig1          Offset      Response time
+Trig2          Offset      End of trial
