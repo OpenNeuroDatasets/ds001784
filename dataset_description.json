@@ -1,14 +1,16 @@
 {
     "Name": "EMOTE-afMSIT",
-    "BIDSVersion": "1.2.0",
+    "License": "",
     "Authors": [
         "Alik Widge",
         "Sam Zorowitz"
     ],
     "Acknowledgements": "We gratefully acknowledge technical assistance from Amanda Arulpragasam, Andrew Corse, Nina Levar, and Tommi Raij with subject recruitment and data collection.",
+    "HowToAcknowledge": "Please cite the forthcoming article below and consider including the following message: 'This data was obtained from the OpenNeuro database. Its accession number is ds001784.'",
     "Funding": "This work was supported by grants from the Brain & Behavior Research Foundation, Picower Family Foundation, MIT Picower Institute Innovation Fund, Defense Advanced Research Projects Agency (DARPA) under Cooperative Agreement Number W911NF-14-2-0045 issued by the Army Research Organization (ARO) contracting office in support of DARPA's SUBNETS Program, Office of Naval Research MURI N00014-16-1-2832, and National Institutes of Health (R21MH109722; R03MH111320; UH3NS100548; R37MH087027). The views, opinions, and findings expressed are those of the authors. They should not be interpreted as representing the official views or policies of the Department of Defense, Department of Health & Human Services, any other branch of the U.S. Government, or any other funding entity.",
-    "HowToAcknowledge": "Please cite the forthcoming article below and consider including the following message: 'This data was obtained from the OpenNeuro database. Its accession number is ds000***'",
     "ReferencesAndLinks": [
         "Widge, A. S., Zorowitz, S., Basu, I., Paulk, A. C., Cash, S. S., Eskandar, E. N., Deckersbach, T., Miller, E. K., Dougherty, D. D. Deep Brain Stimulation of the Internal Capsule Enhances Human Cognitive Control and Prefrontal Cortex Function. In Revision."
-    ]
+    ],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.2.0"
 }
