@@ -1,0 +1,20 @@
+1.0.4	2019-03-26
+
+	- fixed license
+
+1.0.3	2019-03-08
+
+	- Updated task/eeg info in README
+
+1.0.2	2019-03-08
+
+	- Added analysis derivatives including freesurfer recon files and concatenated eeg runs.
+
+1.0.1	2019-03-08
+
+	- Reformatted README; updated license.
+
+
+1.0.0	2019-03-08
+
+	- Initial snapshot
