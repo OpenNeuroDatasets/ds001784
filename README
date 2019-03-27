@@ -32,6 +32,10 @@ Trig2          Onset      Start of response window (onset of MSIT)
 Trig1          Offset      Response time
 Trig2          Offset      End of trial
 
+rest
+------
+In addition, we were able to collect several minutes of eyes-open resting state data with both DBS ON and OFF in several (but not all) patients. Please see participants.tsv to find which patients have resting state data.
+
 code
 ------
 The code used for data analysis is publicly available at:
