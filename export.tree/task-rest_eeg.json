@@ -1,0 +1,17 @@
+{
+  "TaskName": "rest",
+  "InstitutionName": "Athinoula A. Martinos Center for Biomedical Imaging",
+  "Manufacturer":"Nexstim eXimia EEG",
+  "TaskDescription":"Quiet rest with EYES OPEN",
+  "SamplingFrequency": 1450,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "EEGChannelCount":60,
+  "ECGChannelCount":0,
+  "EOGChannelCount":1,
+  "TriggerChannelCount":4,
+  "RecordingType": "continuous",
+  "EEGPlacementScheme": "10-20",
+  "EEGReference":"placed on the bridge of the nose",
+  "EEGGround":"placed on nasion"
+}

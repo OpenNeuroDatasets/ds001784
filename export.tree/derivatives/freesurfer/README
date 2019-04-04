@@ -1,0 +1,29 @@
+freesurfer derivatives for MNE-C  forward solution and minimum-norm estimate pipeline
+https://martinos.org/mne/dev/documentation.html
+
+freesurfer VERSION:
+freesurfer-Linux-centos6_x86_64-stable-pub-v5.3.0
+https://surfer.nmr.mgh.harvard.edu/pub/dist/freesurfer/5.3.0/
+
+freesurfer OPTIONS:
+recon-all
+
+MNE-C PIPELINE
+See MNE cookbook for details
+http://martinos.org/mne/stable/manual/cookbook.html
+
+1) Make surfaces for the 3-layer BEM model. 
+
+>> mne_watershed_bem --subject $SUBJECT --atlas
+
+2) Set up the source space for the subject.
+
+>> mne_setup_source_space --ico -6 --cps --overwrite
+
+3) Set up forward model for the subject.
+
+>> mne_setup_forward_model --subject $SUBJECT --surf --ico 4 --innershift -1
+
+
+NOTES
+The head models used in the primary analysis cannot be publicly shared due to identifying information (i.e. face information). The non-defaced head models can be shared individually on request.
