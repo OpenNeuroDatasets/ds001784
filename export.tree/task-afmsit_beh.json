@@ -1,0 +1,61 @@
+{
+  "trial": {
+    "Description": "Trial number"
+  },
+  "iaps": {
+    "Description": "identifier of IAPS image presented on a given trial."
+  },
+  "msit": {
+    "Description": "MSIT stimulus presented on a given trial."
+  },
+  "valence": {
+    "Description": "Validated valence of the IAPS image (1 = most negative, 9 = most positive)."
+  },
+  "arousal": {
+    "Description": "Validated arousal of the IAPS image (1 = not at all, 9 = highly arousing)."
+  },
+  "interference": {
+    "Description": "MSIT stimulus condition type.",
+    "Levels": {
+      "0": "control",
+      "1": "interference"
+    }
+  },
+  "fixOnset": {
+    "Description": "Onset of fixation cross.",
+    "Units": "seconds"
+  },
+  "IAPSOnset": {
+    "Description": "Onset of IAPS image.",
+    "Units": "seconds"
+  },
+  "MSITOnset": {
+    "Description": "Onset of MSIT stimulus.",
+    "Units": "seconds"
+  },
+  "responseKey": {
+    "Description": "The key pressed by the participant indicating the odd-number-out.",
+    "Levels": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "NaN": "missed response"
+    }
+  },
+  "responseCorrect": {
+    "Description": "Accuracy of participant response.",
+    "Levels": {
+      "0": "incorrect",
+      "1": "correct",
+      "NaN": "missed response"
+    }
+  },
+  "responseTime": {
+    "Description": "Response time of participant (relative to MSIT onset).",
+    "Units": "seconds"
+  },
+  "responseUncertainty": {
+    "Description": "Uncertainty in accuracy of response time measurement.",
+    "Units": "seconds"
+  }
+}
