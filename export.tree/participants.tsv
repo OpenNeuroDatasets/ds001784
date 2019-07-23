@@ -1,0 +1,15 @@
+participant_id	study_id	gender	age	behavior	mri	eeg	rest	dx	ybocs_bl	ybocs_fu	madrs_bl	madrs_fu	responder	hypomania	dbs_stim_freq
+sub-01	BRTU	M	50	True	True	True	True	MDD	n/a	n/a	33	10	True	False	130
+sub-02	CHDR	M	60	True	True	True	True	MDD	n/a	n/a	34	9	True	False	120
+sub-03	CRDA	M	60	True	True	True	False	MDD	n/a	n/a	33	10	False	True	100
+sub-04	JADE	M	50	True	True	True	True	MDD	n/a	n/a	38	24	False	False	50
+sub-05	JASE	M	60	True	True	True	False	MDD	n/a	n/a	36	10	False	True	130
+sub-06	JEMC	F	70	True	False	False	False	MDD	n/a	n/a	38	30	False	False	130
+sub-07	JIGA	M	50	True	False	False	False	MDD	n/a	n/a	35	38	False	False	100
+sub-08	KAMC	F	30	True	False	False	False	MDD	n/a	n/a	35	28	False	True	130
+sub-09	KARA	F	50	True	True	True	True	MDD	n/a	n/a	42	28	True	True	130
+sub-10	LESC	F	60	True	False	False	False	MDD	n/a	n/a	44	4	True	True	130
+sub-11	M5	F	30	True	True	True	False	OCD	34.0	12.0	34	11	True	True	130
+sub-12	MEMU	F	40	True	True	True	False	MDD	n/a	n/a	44	11	True	False	130
+sub-13	MEWA	F	50	True	True	True	False	MDD	n/a	n/a	42	29	False	True	90
+sub-14	S2	F	30	True	True	True	True	OCD	31.0	27.0	2	3	True	n/a	130
