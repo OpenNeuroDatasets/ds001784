@@ -22,7 +22,7 @@ Electroencephalographic data were acquired at 1450 Hz (Nexstim eXimia EEG) from 
 
 All subjects first completed an MSIT block with their DBS on at its usual clinical settings (DBS ON).  A trained clinician then de-activated the bilateral implanted neurostimulators, and the subject rested for at least 1 hour without removing the EEG cap.  After re-preparing any high-impedance channels, subjects again performed MSIT (DBS OFF) before neurostimulator re-activation. Subjects were aware of their device status, as were the experimenters, although no subject experienced adverse psychological consequences from the study manipulation.
 
-Three anatomical fiducials were digitized for aligning the MEG with the pre-operative MRI: the nasion (lowest depression between the eyes) and the left and right ears (lowest depression between the tragus and the helix, above the tragus). This procedure is illustrated here: http://neuroimage.usc.edu/brainstorm/CoordinateSystems#Subject_Coordinate_System_.28SCS_.2F_CTF.29
+Three anatomical fiducials were digitized for aligning the EEG with the pre-operative MRI: the nasion (lowest depression between the eyes) and the left and right ears (lowest depression between the tragus and the helix, above the tragus). This procedure is illustrated here: http://neuroimage.usc.edu/brainstorm/CoordinateSystems#Subject_Coordinate_System_.28SCS_.2F_CTF.29
 
 The following triggers are included in the trigger channels of the .fif files:
 
